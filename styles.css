@@ -1,0 +1,43 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.bg-secondary {
+    background-color: #f0f0f0;
+}
+
+.bg-light {
+    background-color: #f0f0f0;
+}
+
+.bg-primary {
+    background-color: #f0f0f0;
+}
+
+.bg-success {
+    background-color: #f0f0f0;
+}
+
+.bg-danger {
+    background-color: #f0f0f0;
+}
+
+.bg-warning {
+    background-color: #f0f0f0;
+}
+
+.bg-info {
+    background-color: #f0f0f0;
+}
+
+.bg-dark {
+    background-color: #f0f0f0;
+}
+
+.navbar-brand {
+    margin-left: 10px;
+}   
+
+.navbar-nav {
+    margin-right: 10px;
+}   
